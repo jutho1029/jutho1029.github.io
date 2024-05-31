@@ -4,9 +4,7 @@ title: Week 1
 by: Justice Thomson
 ---
 
-During the first week, I met with Dr. Peng and my mentors to discuss the project 
-that I will be working on and gained an understanding of what Dr. Peng will be 
-looking for. We walked to the lab where we saw alot of stuff.:)
+During the first week I attended multiple python classes and I got to practice working with dictionaries in python. I was also introducted to aspects of machine learning. For the machine learing course, I used an algorithm to split the data and train a logisic regression model. Dr. Peng showed us how a few of the instruments in his chemistry lab works and showed us a greenhouse. 
 
 
 [Back](./)
