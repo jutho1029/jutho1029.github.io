@@ -1,6 +1,6 @@
 ## About My Mentor
 
-My mentor, Dr. Chris Crawford from the University of Alabama, is a researcher who’s work focuses on Brain-Computer Interfaces, as well as Human-Robot Interaction. His work aims to leverage novel neurophysiological sensing technologies, software engineering, and robotics to create tools and applications that support the exploration of Brain-Robot Interaction.
+My mentor, Dr. Jiangnan Peng from the Chinese Academy of Sciences & Peking Union Medical College, is an assistant professor in chemistry at Morgan State Univeristy,  who’s work focuses on the identification and analysis of bioactive components from natural resources, including plants, fungi, microbes, and marine invertebrates. His work aims to accomplish three goals; the discovery of new drug leads from natural resources for the treatment of human diseases such as cancer and infectious diseases, using bioassay-guided isolation, structure elucidation, and chemical optimization; Investigation of the scientific basis of dietary supplements and herb medicines, through studying the bioactive components and pharmacology, and establishing comprehensive analytical methods for better control the quality of them; Development of new botanical drugs.
 
 [Mentor's Website](https://htilua.org/about-the-pi)
 
