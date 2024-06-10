@@ -1,8 +1,7 @@
 ## About My Project
 
 
-
-Project Title: Rapid Cannabinoids Potency Evaluation in Raw Samples by Fourier Transform Infrared Spectroscopy and Machine Learning Prediction
+Develop a Machine Learning Model to detect Genetic Biomarkers and early prediction of Lung Cancer from Transcriptomic Datasets.
 
 
 
