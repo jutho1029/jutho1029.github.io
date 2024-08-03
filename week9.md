@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Week 4
+title: Week 9
 author: Justice Thomson
 ---
-During this week I familairized myself with different types of machine learning models and started the process of understanding how they work. I also had the oppurtunity to visit NASA where we learned about the work they are doing there. What stood out most to me was how they capture the atmospheric data from different sources and use high level computers to process and display everything coherently.
+We received feedback on our final research paper from Dr. Pandey. We did it over a zoom call and we were able to understand why certain changes needed to be made. We also practiced presenting for the final presentation. Due to some of the free time we had, we also got to know each other even better than before. I was amazed by all we were able to accomplish during our time in the program.
 
 [Back](./)
