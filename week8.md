@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Week 4
+title: Week 8
 author: Justice Thomson
 ---
-During this week I familairized myself with different types of machine learning models and started the process of understanding how they work. I also had the oppurtunity to visit NASA where we learned about the work they are doing there. What stood out most to me was how they capture the atmospheric data from different sources and use high level computers to process and display everything coherently.
+This week we continued work on our final paper. We also started working on our final presentation. I was able to write parts of the results and the conclusion. We also planned and recorded the elevator pitch for our project. I also did research on gene expression after we selected our top 10 genes 
 
 [Back](./)
