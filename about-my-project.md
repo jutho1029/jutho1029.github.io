@@ -1,7 +1,5 @@
-## About My Project
+## Develop a Machine Learning Model to detect Genetic Biomarkers and early prediction of Lung Cancer from Transcriptomic Datasets.
 
-
-Develop a Machine Learning Model to detect Genetic Biomarkers and early prediction of Lung Cancer from Transcriptomic Datasets.
 In our study, we developed and evaluated several machine learning models to identify genetic biomarkers and predict early-stage lung cancer using transcriptomic datasets. The models tested included Random Forest, Naïve Bayes, Support-Vector Machine, K-Nearest Neighbors, Decision Tree, Lasso Regressor, and Ridge Regressor. The most effective model was a stacked ensemble of Lasso and Random Forest, which achieved an accuracy and AUC score of 99%. Cross-validation showed consistent performance with a mean accuracy of 93%. Feature selection using a Random Forest Classifier identified ten potential biomarkers for lung carcinoma, such as COL10A1, MEX3A, TFAP2A, and MMP12. Gene expression analysis revealed that COL10A1, MMP12, and CTHRC1 were strongly correlated with malignant cases, with CTHRC1 being overly expressed and SUGCT underly expressed, highlighting their significant roles in lung cancer.
 
 
